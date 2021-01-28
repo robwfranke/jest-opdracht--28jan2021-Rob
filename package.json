@@ -1,0 +1,22 @@
+{
+  "name": "oefenopgaverein",
+  "version": "1.0.0",
+  "description": "\"oefen Opgave les01\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch",
+    "rob": "npx jest --watch"
+  },
+
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+
+  "author": "Rob Franke",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
